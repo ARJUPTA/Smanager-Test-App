@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334094109325",
+    "firebase_url": "https://infomed-app-cc88b.firebaseio.com",
+    "project_id": "infomed-app-cc88b",
+    "storage_bucket": "infomed-app-cc88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334094109325:android:9549846df4ba5f45",
+        "android_client_info": {
+          "package_name": "com.example.infomed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334094109325-g0q4t77keir59lla3d9qre6gbs5n5bvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infomed",
+            "certificate_hash": "d760cfc4340d13970889a680c6cd1ed579723179"
+          }
+        },
+        {
+          "client_id": "334094109325-gogtadqpr80lnvv314e1ssibvv7fcgd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfI-TNhtSEj7hENcl0MjzU5gXe9FK_4bU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334094109325-gogtadqpr80lnvv314e1ssibvv7fcgd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
